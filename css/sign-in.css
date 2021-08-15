@@ -49,14 +49,21 @@ div.main{
 .main .desc{
     position: relative;
     padding-left: 0;
+<<<<<<< HEAD
     padding-right: 0;
+=======
+>>>>>>> 76a4dd1d53218a819d5ec7af7d802ebad4cedf88
 }
 .main .desc h1{
     font-size: 2.3rem;
     margin-bottom: 30px;
+<<<<<<< HEAD
     
     font-weight: 500;
     display: inline-block;
+=======
+    font-weight: 500;
+>>>>>>> 76a4dd1d53218a819d5ec7af7d802ebad4cedf88
 }
 .desc h3{
     font-size: 1rem;
@@ -129,6 +136,7 @@ div.main{
 }
 .phone-and-pass div input{
     width: 83%;
+<<<<<<< HEAD
 }
 .form .choice{
     padding: 40px;
@@ -280,4 +288,6 @@ div.main{
     padding: 0 13px;
     }
     
+=======
+>>>>>>> 76a4dd1d53218a819d5ec7af7d802ebad4cedf88
 }
