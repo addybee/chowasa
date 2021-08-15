@@ -130,6 +130,7 @@ div.main{
 .phone-and-pass div input{
     width: 83%;
 }
+<<<<<<< HEAD
 .form .choice{
     padding: 40px;
 }
@@ -244,6 +245,10 @@ div.main{
     .desc .foot{
         bottom: 2px;
     }
+=======
+
+@media  (max-width: 414px){
+>>>>>>> 7ea59070972078953684254032abcbf806fd131c
     div.head, div.main{
         flex-direction: column;
     }
@@ -255,7 +260,10 @@ div.main{
     }
     div.main .desc{
         text-align: center;
+<<<<<<< HEAD
         min-height: 22vh;
+=======
+>>>>>>> 7ea59070972078953684254032abcbf806fd131c
     }
     div.main .desc h1{
         text-align: center;
@@ -275,9 +283,12 @@ div.main{
         padding: 20px;
        margin-top: 0;
     }
+<<<<<<< HEAD
     .phone-and-pass div input{
     width: 83%;
     padding: 0 13px;
     }
+=======
+>>>>>>> 7ea59070972078953684254032abcbf806fd131c
     
 }
